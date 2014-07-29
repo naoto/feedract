@@ -1,12 +1,12 @@
-# Feedown
+# Feedract
 
-Feedown: Atom or RSS Feed searcher in HTML
+Feedract: Atom or RSS Feed searcher in HTML
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'feedown'
+    gem 'feedract'
 
 And then execute:
 
@@ -14,12 +14,12 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install feedown
+    $ gem install feedract
 
 ## Usage
 
 ```ruby
-Feedown.load("http://b.hatena.ne.jp/hotentry") #=> ["http://b.hatena.ne.jp/hotentry.rss"]
+Feedract.load("http://b.hatena.ne.jp/hotentry") #=> ["http://b.hatena.ne.jp/hotentry.rss"]
 ```
 
 ## Contributing
