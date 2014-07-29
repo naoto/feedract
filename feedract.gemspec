@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Feedract::VERSION
   spec.authors       = ["Naoto SHINGAKI"]
   spec.email         = ["nao.sora+github@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Feedract is Feed extract library}
+  spec.description   = %q{Feedract is Feed extract library}
+  spec.homepage      = "http://github.com/naoto/feedract"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
